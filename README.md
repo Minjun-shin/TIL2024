@@ -17,3 +17,4 @@
 ## Algorithm
 - [Algorithm Problem Solving 1 - 시간 복잡도, 배열1](./algorithm/0129.md)
 - [Algorithm Problem Solving 2 - 배열2, 완전탐색, 그리디 알고리즘](./algorithm/0130.md)
+- [Algorithm Problem Solving 2 - 문자열1](./algorithm/0205.md)
