@@ -15,6 +15,12 @@
 - [객체지향 프로그래밍 2](./python/0125_Object_Oriented_Programming_2.md)
 
 ## Algorithm
-- [Algorithm Problem Solving 1 - 시간 복잡도, 배열1](./algorithm/0129.md)
-- [Algorithm Problem Solving 2 - 배열2, 완전탐색, 그리디 알고리즘](./algorithm/0130.md)
-- [Algorithm Problem Solving 2 - 문자열1](./algorithm/0205.md)
+- [시간 복잡도, 배열1](./algorithm/0129.md)
+- [배열2, 완전탐색, 그리디 알고리즘](./algorithm/0130.md)
+- [문자열1](./algorithm/0205.md)
+- [문자열2](./algorithm/0206.md)
+- [스택1-1](./algorithm/0207.md)
+- [스택1-2](./algorithm/0208.md)
+- [스택2-1](./algorithm/0213.md)
+- [스택2-2](./algorithm/0214.md)
+- [큐1](./algorithm/0215.md)
