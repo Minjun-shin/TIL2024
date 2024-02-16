@@ -24,3 +24,4 @@
 - [스택2-1](./algorithm/0213.md)
 - [스택2-2](./algorithm/0214.md)
 - [큐1](./algorithm/0215.md)
+- [큐2](./algorithm/0216.md)
