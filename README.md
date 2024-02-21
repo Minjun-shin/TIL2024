@@ -26,3 +26,4 @@
 - [큐1](./algorithm/0215.md)
 - [큐2](./algorithm/0216.md)
 - [트리1](./algorithm/0220.md)
+- [트리2](./algorithm/0221.md)
