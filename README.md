@@ -25,3 +25,4 @@
 - [스택2-2](./algorithm/0214.md)
 - [큐1](./algorithm/0215.md)
 - [큐2](./algorithm/0216.md)
+- [트리1](./algorithm/0220.md)
