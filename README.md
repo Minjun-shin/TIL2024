@@ -27,8 +27,16 @@
 - [큐2](./algorithm/0216.md)
 - [트리1](./algorithm/0220.md)
 - [트리2](./algorithm/0221.md)
+- [분할 정복](./algorithm/0318.md)
+- [백트래킹](./algorithm/0319.md)
+- [그래프 이론](./algorithm/0320.md)
+- [최소 비용 신장 트리 & 최단 경로 문제](./algorithm/0321.md)
 
 ## Web
 - [HTML & CSS](./web/0306.md)
 - [CSS Box Model & Flexbox](./web/0307.md)
 - [Bootstrap](./web/0309.md)
+- [Bootstrap Grid System](./web/0311.md)
+- [Django introduce](./web/0312.md)
+- [Django Template System](./web/0313.md)
+- [Django App URL mapping & Model](./web/0314.md)
