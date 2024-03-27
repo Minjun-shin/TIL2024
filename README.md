@@ -42,3 +42,4 @@
 - [Django App URL mapping & Model](./web/0314.md)
 - [Django ORM](./web/0325.md)
 - [Django ORM with View](./web/0326.md)
+- [Django Form & Handling HTTP requests](./web/0327.md)
