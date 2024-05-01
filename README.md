@@ -46,6 +46,8 @@
 - [Django Static & Media files](./web/0328.md)
 - [Django Authentication System 1(login & logout)](./web/0329.md)
 - [Django Authentication System 2(signin, signout, update)](./web/0401.md)
+- [Django Restful API 1 DRF](./web/0411.md)
+- [Django Restful API 2 Foriegn Key](./web/0415.md)
 
 ## DataBase
 - [Database SQL Query](./database/0402.md)
