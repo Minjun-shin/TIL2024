@@ -43,3 +43,6 @@
 - [Django ORM](./web/0325.md)
 - [Django ORM with View](./web/0326.md)
 - [Django Form & Handling HTTP requests](./web/0327.md)
+- [Django Static & Media files](./web/0328.md)
+- [Django Authentication System 1(login & logout)](./web/0329.md)
+- [Django Authentication System 2(signin, signout, update)](./web/0401.md)
